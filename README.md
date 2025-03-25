@@ -49,7 +49,7 @@ This guide explains how to set up and use the GitHub MCP integration in Cursor.
 Once configured, you can use the Cursor Agent tab to:
 - Create new repositories
 - Make changes to existing repositories
-- Push code directly from Cursor
+- Push code directly from Cursor with the help of cursor Agent
 - And more!
 
 ## Important Notes
