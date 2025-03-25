@@ -35,15 +35,13 @@ This guide explains how to set up and use the GitHub MCP integration in Cursor.
 6. In the command field, paste:
    ```
    {
-  "mcpServers": {
-    "Github": {
-      "command": <PASTE YOUR COMMAND>
-    }
-  }
-}
-```
+     "mcpServers": {
+       "Github": {
+         "command": <PASTE YOUR COMMAND>
+       }
+     }
+   }
 
-   ```
    (Replace with the command you copied from Smithery.ai)
 
 ## Using GitHub MCP in Cursor
