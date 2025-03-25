@@ -41,6 +41,7 @@ This guide explains how to set up and use the GitHub MCP integration in Cursor.
     }
   }
 }
+```
 
    ```
    (Replace with the command you copied from Smithery.ai)
